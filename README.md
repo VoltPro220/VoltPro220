@@ -1,4 +1,4 @@
-🛠 **Hi, I’m VoltPro™️** 🛠
+🛠 **Hi, I’m Volt™️** 🛠
 
 - ⚙️ Novice engineer.
 - 💻 C/C++ and arduino
